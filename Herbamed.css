@@ -2,3 +2,7 @@ body{
     background-color:#00FA9A;
     color: white;
 }
+.imagens{width: 3%;;}
+.cabeca{background-color: white;
+color: black;
+justify-content: space-around;}
