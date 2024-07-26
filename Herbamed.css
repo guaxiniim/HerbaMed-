@@ -1,8 +1,9 @@
 body{
-    background-color:#00FA9A;
-    color: white;
+    background-color:white;
+    color:white;
 }
-.imagens{width: 3%;;}
-.cabeca{background-color: white;
+.imagens{width: 25%;}
+.cabeca{background-color:#00FF7F;
 color: black;
+display: flex;
 justify-content: space-around;}
