@@ -3,7 +3,12 @@ body{
     color:white;
 }
 .imagens{width: 25%;}
-.cabeca{background-color:#00FF7F;
+.cabecalho{background-color:#00FF7F;
 color: black;
 display: flex;
 justify-content: space-around;}
+.textos{}
+.titulo-pag-um{color: black;}
+.texto-um{color: black;}
+.texto-dois{color: black;}
+.saiba-mais{color: black;}
